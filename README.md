@@ -22,7 +22,7 @@ Reassemble the fragments to recover the original transmission.
 
 ### Archive Status
 
-The recovered transmission archive is encrypted.
+The recovered transmission archive is encrypted..
 
 During the investigation, the recovery phrase was stored in the commit in an encoded format.
 
